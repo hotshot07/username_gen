@@ -1,2 +1,8 @@
-# username_gen
-flask app to generate silly usernames
+# Username Generator
+
+Flask app to generate silly usernames
+
+![img1](img1.png)
+
+![img1](img2.png)
+

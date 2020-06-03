@@ -18,7 +18,7 @@ def camel_case(name, adjective, noun):
 
 def make_username(name):
     usernameList = []
-    for i in range(5):
+    for i in range(15):
         uname = ''
         adjective = randchoice(ADJECTIVES)
         noun = randchoice(NOUNS)
